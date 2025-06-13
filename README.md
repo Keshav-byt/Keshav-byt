@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi there 👋, I'm Keshav!</h1>
 <p align="center">
   <b>Passionate about building robust, scalable solutions and accelerating innovation through code.</b>
@@ -27,17 +26,15 @@
 
 ## 🛠️ Tech Stack
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📫 Email: kesha.vsharma39
+- 📫 Email: keshavsharma3181@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/keshav-sharma-691355217)
 
 ---
